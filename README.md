@@ -1,4 +1,4 @@
-# Project Title: Airflow-Based Data Pipeline with Astronomer, DBT, Soda, and Metabase for Data Processing on GCP
+# Airflow-Based Data Pipeline with Astronomer, DBT, Soda, and Metabase for Data Processing on GCP
 
 ![Main Image Placeholder](https://user-images.githubusercontent.com/22219089/268885855-c0e1b490-510d-43aa-b34c-9e6ea3c750a5.png)
 
